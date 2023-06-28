@@ -13,7 +13,6 @@ To get started, follow these steps:
 3. Navigate to the project directory: `cd bank-loan-modeling`.
 
 ## Prerequisites
-
 To run the code, you need to have Python installed on your machine. The code is compatible with Python 3.x.
 
 ## Usage
