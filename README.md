@@ -1,6 +1,6 @@
 # BANK_LOAN_MODELING
-BANK_LOAN_MODELING (Powerful data combined with 3 powerful machine learning methods.)
-# BANK LOAN MODELING
+(Powerful data combined with 3 powerful machine learning methods.)
+
 
 This repository contains code for modeling bank loans using Python. The code is designed to preprocess the data, clean it, and apply different modeling techniques to predict loan statuses. 
 
